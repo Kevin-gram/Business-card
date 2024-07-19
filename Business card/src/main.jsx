@@ -5,7 +5,7 @@ import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <div className="flex justify-center pt-30">
+    <div className="flex justify-center pt-30 bg-black h-screen">
       <App />
     </div>
   </React.StrictMode>
